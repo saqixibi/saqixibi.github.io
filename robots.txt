@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://saqixibi.github.io/sitemap/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/XNd/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/KOl/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/vAR/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/GPM/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/xcE/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/noV/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/sTP/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/bKN/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/RlL/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/okZ/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/eUO/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/mNT/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/DUg/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/FpK/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/tbG/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/HbC/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/nXU/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/Tvl/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/msR/sitemap_index.saqixibi
+Sitemap: https://saqixibi.github.io/rav/sitemap_index.saqixibi
